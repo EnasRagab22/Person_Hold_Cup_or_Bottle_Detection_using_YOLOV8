@@ -76,8 +76,7 @@ Person_Hold_Cup_or_Bottle_Detection_using_YOLOV8/
 
 ## 📊 Example Results 
 Example format:  
-![Detection Example](Output_Image/Annotated_Image.jpg "Detection Result")
-
+![Detection Image](Output_Image/Annotated_Image.jpg "Detection Result")
 ---
 
 ## 🙌 Acknowledgements
@@ -90,7 +89,7 @@ Example format:
 
 ## 📜 License
 
-This project is licensed under the **MIT License**. See [LICENSE](LICENSE) for details.
+This project is licensed under the **MIT License**.
 
 ---
 
@@ -98,4 +97,3 @@ This project is licensed under the **MIT License**. See [LICENSE](LICENSE) for d
 
 **Enas Ragab**  
 - GitHub: [@EnasRagab22](https://github.com/EnasRagab22)  
-``` 
