@@ -76,7 +76,7 @@ Person_Hold_Cup_or_Bottle_Detection_using_YOLOV8/
 
 ## 📊 Example Results 
 Example format:  
-![Detection Example](Output_Image "Detection Result")
+![Detection Example](Output_Image/Annotated_Image.jpg "Detection Result")
 
 ---
 
