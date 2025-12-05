@@ -101,13 +101,3 @@ This project is licensed under the **MIT License**. See [LICENSE](LICENSE) for d
 **Enas Ragab**  
 - GitHub: [@EnasRagab22](https://github.com/EnasRagab22)  
 ``` 
-
-### Key Improvements:
-- Organized sections hierarchically for better flow  
-- Standardized emoji usage and formatting  
-- Added syntax highlighting for code blocks  
-- Clarified project structure with a plain-text tree  
-- Added placeholders for example results  
-- Improved consistency in bullet points and headers  
-- Simplified installation/usage instructions  
-- Enhanced readability through spacing and indentation
