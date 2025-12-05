@@ -74,11 +74,9 @@ Person_Hold_Cup_or_Bottle_Detection_using_YOLOV8/
 
 ---
 
-## 📊 Example Results
-
-*(Add screenshots or GIFs of detection outputs here)*  
+## 📊 Example Results 
 Example format:  
-![Detection Example](path/to/example_image.jpg "Detection Result")
+![Detection Example](Output_Image "Detection Result")
 
 ---
 
